@@ -6,3 +6,7 @@
 ###### Header 6
 
 Testing all the different headers.
+
+# Testing images
+
+![Javascript](https://upload.wikimedia.org/wikipedia/commons/a/a4/JavaScript_code.png)
