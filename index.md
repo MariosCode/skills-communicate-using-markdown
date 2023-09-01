@@ -25,3 +25,9 @@ for(let i = 0; i < 100000; i++){
 totalValue = totalValue + (testing*288000);
 console.log("after: " + totalValue);
 ```
+
+# task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
